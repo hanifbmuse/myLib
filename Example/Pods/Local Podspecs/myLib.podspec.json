@@ -1,0 +1,22 @@
+{
+  "name": "myLib",
+  "version": "0.1.0",
+  "summary": "An example for cocoapods.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/hanifbmuse/myLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "hanif_bmuse": "hanif@bmuse.com"
+  },
+  "source": {
+    "git": "https://github.com/hanifbmuse/myLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "myLib/Classes/**/*"
+}
